@@ -18,3 +18,7 @@ response:<br>
 <li class="has-line-data" data-line-start="16" data-line-end="17">npm run dev</li>
 <li class="has-line-data" data-line-start="17" data-line-end="18">open browser <a href="http://localhost:8000">http://localhost:8000</a></li>
 </ul>
+
+
+FRONT END component by : 
+<p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://github.com/Rayan-web">@rayan_codes</a></p>
